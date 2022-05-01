@@ -1,12 +1,12 @@
 # Movie-Recommender-Engine
-![](https://media.giphy.com/media/3ohhwDMC187JqL69DG/giphy.gif)
+<!-- ![](https://media.giphy.com/media/3ohhwDMC187JqL69DG/giphy.gif) -->
 A content based movie recommender engine that takes an input movie name and recommends:
     1.Top-10 movies similar to the input movie
     2.List of movies from the same director 
     3.Movies from same franchise.
     
 
-tgi
+
 
 <p align="center" width="100%">
     <img width="15%" src="https://media.giphy.com/media/3ohhwDMC187JqL69DG/giphy.gif"> 
