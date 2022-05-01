@@ -35,7 +35,7 @@ The models uses TF-IDF Vectorization and Word-Embeddings from Glove-840B word-em
 <p align="center" width="100%">
     <img src = "https://user-images.githubusercontent.com/24209142/166164494-4201adc9-5547-4d5d-91ee-5752cde820b9.jpg" width = 75%>
 
-3. Heatmap of Genres- The heatmap graph shows the genres that are related to each other and share the list of a movie genre. 
+3. Heatmap of Genres- The heatmap graph shows the genres that are related to each other and can share the list of a movie genre. 
 
  <p align="center" width="100%">   
     <img src="https://user-images.githubusercontent.com/24209142/166165008-4fe4566b-0f64-42c8-a2ad-032e0eddaf81.png" width="65%">
