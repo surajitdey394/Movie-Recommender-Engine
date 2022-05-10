@@ -39,3 +39,9 @@ The models uses TF-IDF Vectorization and Word-Embeddings from Glove-840B word-em
 
  <p align="center" width="100%">   
     <img src="https://user-images.githubusercontent.com/24209142/166165008-4fe4566b-0f64-42c8-a2ad-032e0eddaf81.png" width="65%">
+     
+# **INSTRUCTIONS**
+     1. Download glove840.300d word embedding dataset.
+     2. Run convert_to_bin.py file to convert the dataset in ".bin" format file.
+     3. Run recommender.py file.
+
